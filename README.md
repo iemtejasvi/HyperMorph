@@ -2,10 +2,13 @@
 
 IllusoGen is a revolutionary deepfake synthesis framework, engineered to surpass all existing face-swapping technologies. Unlike conventional deepfake models that produce discernibly artificial results, IllusoGen generates **photorealistic facial synthesis** indistinguishable from reality. This is the **first and only publicly accessible deepfake system** that achieves human-like results, a feat previously reserved for **proprietary, enterprise-tier solutions** available only via exclusive Discord-based licensing.
 
+With **zero training required**, users can simply select their desired face swap target, and IllusoGen's proprietary engine handles everything—instantly generating **seamless, ultra-realistic transformations** without any complex setup. This is not just another deepfake tool—this is **the future of synthetic media**, with results so convincing they redefine the boundaries of what AI-generated visuals can achieve.
+
 Leveraging a proprietary fusion of **ONNX-optimized neural models**, **hyper-accurate landmark mapping**, and **adaptive perceptual blending**, IllusoGen transcends traditional limitations in face morphing. The result is an **unprecedented level of realism**, ensuring seamless integration of synthetic faces into any medium, from cinematic productions to real-time video feeds.
 
 ## Core Capabilities
 
+- **Instant, One-Click Face Swapping** – No model training or fine-tuning required. Just select, swap, and witness **near-perfect realism**.
 - **Cross-Platform Unified GUI** – A browser-integrated graphical interface ensuring a seamless, operating-system-agnostic experience.
 - **Multi-Face Processing** – Simultaneously processes numerous input and output faces within a single execution cycle.
 - **Advanced Swapping Algorithms** – Provides multiple face-swap methodologies, including first-detection priority, predefined face selection, and gender-based face mapping.
@@ -20,6 +23,9 @@ Leveraging a proprietary fusion of **ONNX-optimized neural models**, **hyper-acc
 - **High-Precision Edge Detection** – Eliminates visible blending artifacts, ensuring undetectable facial transitions.
 - **GPU-Optimized Processing** – Designed to harness CUDA, ROCm, and DirectML acceleration for ultra-fast rendering.
 - **Proprietary Skin Texture Reconstruction** – Rebuilds micro-detail structures, pores, and complexion nuances that mimic real-world lighting conditions.
+- **Ultra-Realistic Eye Rendering** – Preserves pupil dilation, reflections, and micro-movements for **unmatched authenticity**.
+- **Emotion-Aware Swapping** – Transfers not just faces, but micro-expressions and subtle facial dynamics for deepfakes that feel **alive**.
+- **Speech & Lip-Sync Enhancement** – Ensures precise synchronization with audio, avoiding unnatural mouth movements common in other deepfake software.
 - **Comprehensive Theming & UI Customization** – Adaptable interface themes for optimized visual ergonomics.
 
 ...and an extensive suite of additional features engineered for superior performance and flexibility.
